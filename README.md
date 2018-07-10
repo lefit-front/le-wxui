@@ -8,7 +8,7 @@
 # install dependencies
 npm install -D le-wxui
 
-# serve with hot reload at localhost:8080
+# import components
 import leFormat from 'le-wxui/src/components/le-format'
 import leButton from 'le-wxui/src/components/le-button'
 import leUserImg from 'le-wxui/src/components/le-userImg'
