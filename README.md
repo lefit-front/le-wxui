@@ -1,4 +1,4 @@
-# justin
+# Justin
 
 > A Mpvue project
 
@@ -6,10 +6,10 @@
 
 ``` bash
 # install dependencies
-npm install
+npm install -D le-wxui
 
 # serve with hot reload at localhost:8080
-npm run dev
+import leFormat from 'le-wxui/src/components/le-format'
 
 # build for production with minification
 npm run build

@@ -69,10 +69,7 @@
 </template>
 
 <script>
-import leFormat from '@/components/le-format'
-import leButton from '@/components/le-button'
-import leUserImg from '@/components/le-userImg'
-import leUsername from '@/components/le-username'
+import { leFormat, leButton, leUserImg, leUsername } from '@/components'
 export default {
   components: {
     leFormat,
