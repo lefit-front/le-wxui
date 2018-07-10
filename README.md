@@ -10,6 +10,9 @@ npm install -D le-wxui
 
 # serve with hot reload at localhost:8080
 import leFormat from 'le-wxui/src/components/le-format'
+import leButton from 'le-wxui/src/components/le-button'
+import leUserImg from 'le-wxui/src/components/le-userImg'
+import leUsername from 'le-wxui/src/components/le-username'
 
 # build for production with minification
 npm run build
